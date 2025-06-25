@@ -1,0 +1,17 @@
+---
+description: Enforce consistent naming conventions for React components and their files. This rule ensures that filenames are in kebab-case and component names are in PascalCase.
+globs: apps/**/*.spec.*, apps/**/*.test.*
+alwaysApply: false
+---
+
+File Naming (`kebab-case`)
+- **Rule**: Files containing a React component must be named in `kebab-case`.
+- **Example**: `navigation-bar.tsx`, `theme-switch.tsx`
+
+Component Naming (`PascalCase`)
+- **Rule**: The React component exported from the file must be named in `PascalCase`.
+- **Example**: `export default function NavigationBar() { ... }`
+
+Concrete Example
+- **File**: `home-page.tsx`
+- **Component**: `function HomePage() { ... }`

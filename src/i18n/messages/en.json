@@ -1,0 +1,119 @@
+{
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "We unfortunately ran into an error. You can try to reload the page you were visiting.",
+    "content": "Try again differently!",
+    "content-link": "Home"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Please check the URL in the address bar or use the navigation to go to a known page.",
+    "content": "Try again differently!",
+    "content-link": "Home"
+  },
+  "LanguageDetection": {
+    "title": "Language detected",
+    "countdown": "Auto switch in {countdown} seconds",
+    "description": "We detected a different language. Do you want to switch?"
+  },
+  "LocalLayout": {
+    "title": "Freelance Developer | FlexiWeb Evo",
+    "description": "Construction template empty boiler"
+  },
+  "Header": {
+    "sidebar-links": {
+      "home": "Home"
+    }
+  },
+  "Footer": {
+    "social-links": "Social links",
+    "copyright": "Copyright © {year} {company}. All rights reserved.",
+    "sitemap": "Sitemap",
+    "page-1": "About",
+    "page-2": "Privacy Policy",
+    "page-3": "Terms of service"
+  },
+  "Consent": {
+    "cookie-banner": {
+      "description-1": "In order to provide you with audience measurement statistics, we may place third-party cookies on your device. This can only be done with your prior consent for each of these cookies.",
+      "description-2-1": "Manage your choices in personalized or on our ",
+      "description-2-2": "Privacy Policy",
+      "description-2-3": " , y including your right to object.",
+      "accept": "Accept all",
+      "reject": "Refuse all",
+      "learn-more": "Learn more"
+    }
+  },
+  "HomePage": {
+    "title": "Creating web interfaces with Next.js",
+    "description": "Unlock seamless web design with our expert Next.js solutions—crafted for precision and excellence.",
+    "button": "Discover my services"
+  },
+  "PrivacyPolicy": {
+    "updated": "> Updated on 2025-06-19",
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy describes how we collect and use your information.",
+    "collect": {
+      "title": "Information We Collect",
+      "intro": "We collect information that you provide directly to us:",
+      "account": "Account information",
+      "usage": "Usage data",
+      "communication": "Communication preferences"
+    },
+    "cookie-policy": {
+      "title": "Cookie Policy",
+      "intro": "Any cookies that may be used come from third-party applications and are subject to their own policies, which can be accessed when using these services.",
+      "button": "Change my consent"
+    },
+    "use": {
+      "title": "How We Use Your Information",
+      "intro": "We use the information we collect to:",
+      "services": "Provide our services",
+      "experience": "Improve user experience",
+      "updates": "Send important updates"
+    },
+    "security": {
+      "title": "Data Security",
+      "intro": "We implement appropriate security measures to protect your data."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "intro": "For any questions regarding privacy, please do not hesitate to contact me:"
+    },
+    "updates": {
+      "title": "Updates to This Policy",
+      "intro": "We may update this policy from time to time. Please review it periodically."
+    }
+  },
+  "TermsOfService": {
+    "updated": "> Updated on 2025-06-19",
+    "title": "Terms of Service",
+    "intro": "Welcome to our service. By using our website, you agree to these terms.",
+    "acceptance": {
+      "title": "1. Acceptance of Terms",
+      "intro": "By accessing and using this website, you accept and agree to be bound by the terms and conditions of this agreement."
+    },
+    "responsibilities": {
+      "title": "2. User Responsibilities",
+      "intro": "You agree to:",
+      "accurate": "Provide accurate information",
+      "security": "Maintain the security of your account",
+      "laws": "Comply with all applicable laws"
+    },
+    "changes": {
+      "title": "3. Service Changes",
+      "intro": "We reserve the right to:",
+      "modify": "Modify or discontinue services",
+      "update": "Update these terms at any time"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "intro": "If you have any questions regarding these terms, please do not hesitate to contact us:"
+    }
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "Learn more about our project and our mission.",
+    "content": "This project is a modern Next.js starter kit, designed to help you build fast, scalable, and maintainable web applications."
+  }
+}

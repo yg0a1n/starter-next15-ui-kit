@@ -1,0 +1,119 @@
+{
+  "Error": {
+    "title": "Quelque chose s'est mal passé !",
+    "description": "Nous avons malheureusement rencontré une erreur. Vous pouvez essayer de recharger la page que vous visitiez.",
+    "content": "Réessayer autrement!",
+    "content-link": "Acceuil"
+  },
+  "NotFoundPage": {
+    "title": "Page non trouvée",
+    "description": "Veuillez vérifier la barre d'adresse de votre navigateur ou utiliser la navigation pour accéder à une page connue.",
+    "content": "Réessayer autrement!",
+    "content-link": "Acceuil"
+  },
+  "LanguageDetection": {
+    "title": "Langue détectée",
+    "countdown": "Changement automatique dans {countdown} secondes",
+    "description": "Nous avons détecté une langue différente. Voulez-vous changer ?"
+  },
+  "LocalLayout": {
+    "title": "Développeur Freelance | FlexiWeb Evo",
+    "description": "Une version de démarrage multilingue Next.js 15 avec prise en charge i18n intégrée. Lancez votre application web mondiale avec une base claire, efficace et optimisée pour le référencement."
+  },
+  "Header": {
+    "sidebar-links": {
+      "home": "Accueil"
+    }
+  },
+  "Footer": {
+    "social-links": "Liens sociaux",
+    "copyright": "Copyright © {year} {company}. Tous droits réservés.",
+    "sitemap": "Plan du site",
+    "page-1": "À propos",
+    "page-2": "Politique de confidentialité",
+    "page-3": "Conditions de service"
+  },
+  "Consent": {
+    "cookie-banner": {
+      "description-1": "Afin de vous proposer d'élaborer des statistiques de fréquentation, nous sommes susceptibles de déposer des cookies tiers sur votre machine. Cela ne peut se faire qu'en obtenant, au préalable, votre consentement pour chacun de ces cookies.",
+      "description-2-1": "Gérez vos choix dans personnalisé ou sur notre ",
+      "description-2-2": "Politique de Confidentialité",
+      "description-2-3": " , y compris votre droit d’opposition.",
+      "accept": "Tout accepter",
+      "reject": "Tout refuser",
+      "learn-more": "En savoir plus"
+    }
+  },
+  "HomePage": {
+    "title": "Créer des interfaces Web avec Next.js",
+    "description": "Bénéficiez d'une conception Web transparente avec nos solutions expertes Next.js, conçues pour la précision et l'excellence.",
+    "button": "Découvrir mes services"
+  },
+  "PrivacyPolicy": {
+    "updated": "> Mis à jour le 19/06/2025",
+    "title": "Politique de confidentialité",
+    "intro": "Cette politique de confidentialité décrit comment nous collectons et utilisons vos informations.",
+    "collect": {
+      "title": "Informations que nous collectons",
+      "intro": "Nous collectons les informations que vous nous fournissez directement :",
+      "account": "Informations de compte",
+      "usage": "Données d'utilisation",
+      "communication": "Préférences de communication"
+    },
+    "cookie-policy": {
+      "title": "Politique en matière de cookies",
+      "intro": "Les cookies éventuellement utilisés proviennent d’applications tierces et sont soumis à leur propre politique, accessible lors de l’utilisation de ces services.",
+      "button": "Changer mon consentement"
+    },
+    "use": {
+      "title": "Comment nous utilisons vos informations",
+      "intro": "Nous utilisons les informations collectées pour :",
+      "services": "Fournir nos services",
+      "experience": "Améliorer l'expérience utilisateur",
+      "updates": "Envoyer des mises à jour importantes"
+    },
+    "security": {
+      "title": "Sécurité des données",
+      "intro": "Nous mettons en œuvre des mesures de sécurité appropriées pour protéger vos données."
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "Pour toute question relative à la confidentialité, n'hésitez pas à me contacter :"
+    },
+    "updates": {
+      "title": "Mises à jour de cette politique",
+      "intro": "Nous pouvons mettre à jour cette politique de temps à autre. Veuillez la consulter régulièrement."
+    }
+  },
+  "TermsOfService": {
+    "updated": "> Mis à jour le 19/06/2025",
+    "title": "Conditions d'utilisation",
+    "intro": "Bienvenue sur notre service. En utilisant notre site, vous acceptez ces conditions.",
+    "acceptance": {
+      "title": "1. Acceptation des conditions",
+      "intro": "En accédant et en utilisant ce site, vous acceptez d'être lié par les présentes conditions générales."
+    },
+    "responsibilities": {
+      "title": "2. Responsabilités de l'utilisateur",
+      "intro": "Vous vous engagez à :",
+      "accurate": "Fournir des informations exactes",
+      "security": "Assurer la sécurité de votre compte",
+      "laws": "Respecter toutes les lois applicables"
+    },
+    "changes": {
+      "title": "3. Modifications du service",
+      "intro": "Nous nous réservons le droit de :",
+      "modify": "Modifier ou interrompre les services",
+      "update": "Mettre à jour ces conditions à tout moment"
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "intro": "Si vous avez des questions concernant ces conditions, n'hésitez pas à  nous contacter :"
+    }
+  },
+  "AboutPage": {
+    "title": "À propos",
+    "description": "En savoir plus sur notre projet et notre mission.",
+    "content": "Ce projet est un starter kit Next.js moderne, conçu pour vous aider à créer des applications web rapides, évolutives et maintenables."
+  }
+}
