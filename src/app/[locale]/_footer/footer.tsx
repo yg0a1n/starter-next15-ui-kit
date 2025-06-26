@@ -12,12 +12,12 @@ export default function Footer() {
       <footer className="border-t border-gray-300 pt-2 pb-4 dark:border-gray-700">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="flex flex-col gap-8 sm:flex-row sm:justify-between">
-            <div className="flex flex-col items-center gap-4 sm:items-start">
+            <div className="flex flex-col items-center gap-4 sm:flex-1 sm:items-start">
               <LanguageSelect />
               <SocialLinks />
             </div>
-            <div className="flex justify-center">
-              <div className="flex w-full max-w-xs flex-col items-center">
+            <div className="ml-4 flex justify-center sm:mt-8 sm:ml-0 sm:flex-1 md:flex-none lg:mt-0">
+              <div className="flex w-full flex-col items-center sm:w-48 md:w-56">
                 <h3 className="mb-4 w-full text-left text-lg font-semibold">{t('sitemap')}</h3>
                 <SitemapLinks />
               </div>

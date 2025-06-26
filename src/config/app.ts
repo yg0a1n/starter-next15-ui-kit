@@ -19,9 +19,9 @@ export const DEFAULT_THEME = THEME_OPTIONS[2];
 
 // Social
 
-export const CONTACT_EMAIL = 'y.goalen@outlook.be';
+export const CONTACT_EMAIL = 'y.goalen@outlook.com';
 export const EMAIL_URL = `mailto:${CONTACT_EMAIL}`;
-export const GITHUB_URL = `https://github.com/${AUTHOR_NAME}`;
+export const GITHUB_URL = SOURCE_CODE_URL;
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/y-goalen/';
 export const TWITTERX_URL = 'https://x.com/htttpcode';
 export const BSKY_URL = 'https://bsky.app/profile/yg0a1n.bsky.social';
